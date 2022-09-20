@@ -6,7 +6,7 @@
 	<title>Areeba's Fitness</title>
 </head>
 <link href="https://fonts.googleapis.com/css?family=Baloo+Bhai&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="style.css">
   <body>
   	<header class="header">
         <!-- Left box for logo -->
@@ -30,7 +30,7 @@
         </div>
     </header>
     <div class="container">
-        <h1>Join the best gym of Delhi now</h1>
+        <h1>Join the best gym of Kolkata now</h1>
         <form action="noaction.php">
             <div class="form-group">
                 <input type="text" name="" placeholder="Enter your Name">
